@@ -1,0 +1,657 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:38:54.061Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:39:47.555Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:40:25.313Z"}
+{"level":"info","message":"Processing request - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T07:40:46.229Z"}
+{"level":"info","message":"Script generated with 28 words for 15 seconds","timestamp":"2024-12-17T07:40:49.957Z"}
+{"level":"info","message":"Generating images for prompt: \"Bangla, also known as Bengali, is the official language of Bangladesh. It's one of the most spoken languages in the world, with a rich history and beautiful script.\"","timestamp":"2024-12-17T07:40:49.958Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T07:41:09.962Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T07:41:25.370Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T07:41:45.395Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T07:42:22.811Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T07:42:26.647Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T07:42:26.648Z"}
+{"level":"info","message":"Video creation completed","timestamp":"2024-12-17T07:42:27.204Z"}
+{"level":"error","message":"Error uploading to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T07:43:35.928Z"}
+{"level":"error","message":"Error in generate endpoint: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T07:43:35.929Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:45:56.737Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:46:19.824Z"}
+{"level":"info","message":"Processing request - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T07:47:26.905Z"}
+{"level":"info","message":"Script generated with 30 words for 15 seconds","timestamp":"2024-12-17T07:47:28.523Z"}
+{"level":"info","message":"Generating images for prompt: Discover the beauty of Bangla, a rich language filled with history and culture. From literature to music, Bangla offers a world of vibrant expressions and traditions. Explore this language today!","timestamp":"2024-12-17T07:47:28.524Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T07:47:47.774Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T07:48:06.513Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T07:48:25.964Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T07:49:40.824Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T07:49:49.697Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T07:49:49.699Z"}
+{"level":"info","message":"Audio duration: 12.072 seconds","timestamp":"2024-12-17T07:49:50.046Z"}
+{"level":"info","message":"Duration per image: 4.024 seconds","timestamp":"2024-12-17T07:49:50.047Z"}
+{"level":"info","message":"Starting video processing","timestamp":"2024-12-17T07:49:50.156Z"}
+{"level":"info","message":"Processing: undefined% done","timestamp":"2024-12-17T07:49:50.312Z"}
+{"level":"info","message":"Video creation completed","timestamp":"2024-12-17T07:49:50.316Z"}
+{"level":"error","message":"Error uploading to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T07:50:58.952Z"}
+{"level":"error","message":"Error in generate endpoint: Failed to upload video to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T07:50:58.953Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:53:44.736Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:10.394Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:13.716Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:27.530Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:35.645Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:36.197Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:38.256Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:38.615Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:40.307Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:41.244Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:41.692Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:55:42.206Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:56:41.959Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T07:57:32.830Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T07:57:41.838Z"}
+{"level":"info","message":"Script generated with 33 words for 15 seconds","timestamp":"2024-12-17T07:57:43.434Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T07:57:43.434Z"}
+{"level":"info","message":"Generating images for prompt: \"Bangla, also known as Bengali, is the official language of Bangladesh and the Indian state of West Bengal. With over 250 million speakers, it is the sixth most spoken language","timestamp":"2024-12-17T07:57:43.434Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T07:58:06.679Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T07:58:24.906Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T07:58:42.959Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T07:58:42.959Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T07:58:52.712Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T07:58:52.712Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T07:58:56.168Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T07:58:56.169Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T07:58:56.169Z"}
+{"level":"info","message":"Audio duration: 11.232 seconds","timestamp":"2024-12-17T07:58:56.513Z"}
+{"level":"info","message":"Duration per image: 3.7439999999999998 seconds","timestamp":"2024-12-17T07:58:56.513Z"}
+{"level":"info","message":"Starting video processing","timestamp":"2024-12-17T07:58:56.635Z"}
+{"level":"info","message":"Processing: undefined% done","timestamp":"2024-12-17T07:58:56.836Z"}
+{"level":"info","message":"Video creation completed","timestamp":"2024-12-17T07:58:56.847Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T07:58:56.848Z"}
+{"level":"info","message":"Uploading file static/videos/output_1734422336169.mp4 to S3 bucket argobot-bucket","timestamp":"2024-12-17T07:58:56.848Z"}
+{"level":"info","message":"File uploaded to S3 successfully: videos/output-1734422336848.mp4","timestamp":"2024-12-17T07:58:59.635Z"}
+{"level":"info","message":"Video uploaded to S3 successfully","timestamp":"2024-12-17T07:58:59.635Z"}
+{"level":"info","message":"Cleanup completed successfully","timestamp":"2024-12-17T07:58:59.640Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T08:03:01.302Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T08:03:07.590Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T08:03:28.377Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T08:11:14.071Z"}
+{"level":"info","message":"Script generated with 34 words for 15 seconds","timestamp":"2024-12-17T08:11:15.709Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T08:11:15.710Z"}
+{"level":"info","message":"Generating images for prompt: \"Bangla, also known as Bengali, is one of the most widely spoken languages in the world. Its rich literary tradition and vibrant culture make it truly unique. Explore the beauty","timestamp":"2024-12-17T08:11:15.711Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T08:11:31.855Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T08:11:47.734Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T08:12:03.027Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T08:12:03.028Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T08:12:32.846Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T08:12:32.847Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T08:12:36.254Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T08:12:36.255Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T08:12:36.256Z"}
+{"level":"info","message":"Audio duration: 10.656 seconds","timestamp":"2024-12-17T08:12:36.664Z"}
+{"level":"info","message":"Duration per image: 3.552 seconds","timestamp":"2024-12-17T08:12:36.665Z"}
+{"level":"info","message":"Starting video processing","timestamp":"2024-12-17T08:12:36.768Z"}
+{"level":"info","message":"Processing: undefined% done","timestamp":"2024-12-17T08:12:37.033Z"}
+{"level":"info","message":"Video creation completed","timestamp":"2024-12-17T08:12:37.037Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T08:12:37.038Z"}
+{"level":"error","message":"Error in video generation: Generated video is invalid or too short","timestamp":"2024-12-17T08:12:37.105Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T08:23:53.960Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T08:24:09.661Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T08:35:26.554Z"}
+{"level":"info","message":"Script generated with 32 words for 15 seconds","timestamp":"2024-12-17T08:35:28.815Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T08:35:28.816Z"}
+{"level":"info","message":"Generating images for prompt: \"Bangla, also known as Bengali, is the official language of Bangladesh and the second most spoken language in India. It has a rich literary tradition and is celebrated for its","timestamp":"2024-12-17T08:35:28.816Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T08:35:47.879Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T08:36:06.047Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T08:36:23.976Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T08:36:23.978Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T08:36:52.685Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T08:36:52.693Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T08:36:55.829Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T08:36:55.831Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T08:36:55.832Z"}
+{"level":"info","message":"Audio duration: 10.632 seconds","timestamp":"2024-12-17T08:36:56.209Z"}
+{"level":"info","message":"Duration per image: 3.544 seconds","timestamp":"2024-12-17T08:36:56.209Z"}
+{"level":"info","message":"Started ffmpeg with command: ffmpeg -i static/images/image_1.png_processed.png -i static/images/image_2.png_processed.png -i static/images/image_3.png_processed.png -i static/audio/audio_1734424612691.mp3 -y -filter_complex [0:v]scale=1080:1920,setpts=PTS-STARTPTS,format=yuva420p[v0];[1:v]scale=1080:1920,setpts=PTS-STARTPTS,format=yuva420p[v1];[2:v]scale=1080:1920,setpts=PTS-STARTPTS,format=yuva420p[v2];[v0][v1][v2]concat=n=3:v=1:a=0,format=yuv420p[outv] -map [outv] -acodec aac -vcodec libx264 -r 30 -map [outv] -map 1:a -c:v libx264 -c:a aac -b:a 192k -pix_fmt yuv420p -r 30 -shortest -avoid_negative_ts make_zero -movflags +faststart static/videos/output_1734424615831.mp4","timestamp":"2024-12-17T08:36:56.308Z"}
+{"level":"error","message":"Error in video creation: ffmpeg exited with code 234: Stream map '' matches no streams.\nTo ignore this, add a trailing '?' to the map.\nFailed to set value '1:a' for option 'map': Invalid argument\nError parsing options for output file static/videos/output_1734424615831.mp4.\nError opening output files: Invalid argument\n","timestamp":"2024-12-17T08:36:56.407Z"}
+{"level":"error","message":"Error in video generation: ffmpeg exited with code 234: Stream map '' matches no streams.\nTo ignore this, add a trailing '?' to the map.\nFailed to set value '1:a' for option 'map': Invalid argument\nError parsing options for output file static/videos/output_1734424615831.mp4.\nError opening output files: Invalid argument\n","timestamp":"2024-12-17T08:36:56.407Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T08:37:53.201Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T08:38:18.542Z"}
+{"level":"info","message":"Script generated with 28 words for 15 seconds","timestamp":"2024-12-17T08:38:19.984Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T08:38:19.984Z"}
+{"level":"info","message":"Generating images for prompt: \"Bangla, also known as Bengali, is the official language of Bangladesh and the Indian states of West Bengal and Tripura. It is known for its rich literary tradition.\"","timestamp":"2024-12-17T08:38:19.985Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T08:38:38.504Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T08:38:55.950Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T08:39:11.697Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T08:39:11.698Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T08:39:39.762Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T08:39:39.764Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T08:39:42.282Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T08:39:42.283Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T08:39:42.283Z"}
+{"level":"info","message":"Audio duration: 10.224 seconds","timestamp":"2024-12-17T08:39:42.715Z"}
+{"level":"info","message":"Duration per image: 3.408 seconds","timestamp":"2024-12-17T08:39:42.716Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:06:10.679Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:06:22.856Z"}
+{"level":"info","message":"Script generated with 54 words for 15 seconds","timestamp":"2024-12-17T09:06:24.385Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:06:24.385Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.3s\"/> \"Bengali, also known as Bangla, is the official language of Bangladesh and the second most spoken language in India. <break time=\"0.5s\"/> It has a rich history dating back over a thousand years and a beautiful script","timestamp":"2024-12-17T09:06:24.386Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:06:41.443Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:06:58.553Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:07:13.983Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:07:13.984Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:07:32.626Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:07:32.628Z"}
+{"level":"info","message":"Generated audio duration: 14.54 seconds","timestamp":"2024-12-17T09:07:37.174Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:07:37.174Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:07:37.174Z"}
+{"level":"info","message":"Starting video creation","timestamp":"2024-12-17T09:07:37.174Z"}
+{"level":"info","message":"Audio duration: 14.544 seconds","timestamp":"2024-12-17T09:07:37.321Z"}
+{"level":"info","message":"Duration per image: 4.848 seconds","timestamp":"2024-12-17T09:07:37.321Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:09:38.139Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:10:10.322Z"}
+{"level":"info","message":"Script generated with 49 words for 15 seconds","timestamp":"2024-12-17T09:10:11.990Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:10:11.991Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.3s\"/> \"Bangla, also known as Bengali, is the official language of Bangladesh and the Indian state of West Bengal. <break time=\"0.5s\"/> With over 230 million speakers worldwide, it is the seventh most spoken language in the world.","timestamp":"2024-12-17T09:10:11.992Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:10:34.965Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:10:48.012Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:11:04.722Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:11:04.722Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:11:36.903Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:11:36.905Z"}
+{"level":"info","message":"Generated audio duration: 16.51 seconds","timestamp":"2024-12-17T09:11:41.699Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:11:41.699Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:11:41.699Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T09:11:41.699Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T09:11:41.700Z"}
+{"level":"info","message":"Audio duration: 16.512 seconds","timestamp":"2024-12-17T09:11:41.746Z"}
+{"level":"info","message":"Duration per image: 5.5040000000000004 seconds","timestamp":"2024-12-17T09:11:41.746Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T09:11:41.746Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T09:11:41.747Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T09:11:41.748Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734426696905.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental static/videos/output_1734426701699.mp4","timestamp":"2024-12-17T09:11:41.852Z"}
+{"level":"error","message":"FFmpeg error: ffmpeg exited with code 254: Error opening input file /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt.\nError opening input files: No such file or directory\n","timestamp":"2024-12-17T09:11:41.897Z"}
+{"level":"error","message":"Error in video generation: ffmpeg exited with code 254: Error opening input file /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt.\nError opening input files: No such file or directory\n","timestamp":"2024-12-17T09:11:41.897Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:12:31.287Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:12:42.136Z"}
+{"level":"info","message":"Script generated with 37 words for 15 seconds","timestamp":"2024-12-17T09:12:43.140Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:12:43.140Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.3s\"/> Dive into the beauty of Bangla. <break time=\"0.5s\"/> Explore its rich history, vibrant culture, and melodious language. <break time=\"0.5s\"/> Let Bangla transport you to a world filled with tradition, creativity, and endless inspiration. <break time=\"0.3s\"/>","timestamp":"2024-12-17T09:12:43.141Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:13:04.222Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:13:23.774Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:13:42.023Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:13:42.025Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:13:55.481Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:13:55.482Z"}
+{"level":"info","message":"Generated audio duration: 21.84 seconds","timestamp":"2024-12-17T09:14:00.170Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:14:00.170Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:14:00.170Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T09:14:00.170Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T09:14:00.171Z"}
+{"level":"info","message":"Audio duration: 21.84 seconds","timestamp":"2024-12-17T09:14:00.229Z"}
+{"level":"info","message":"Duration per image: 7.28 seconds","timestamp":"2024-12-17T09:14:00.229Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T09:14:00.229Z"}
+{"level":"info","message":"Input list file created at: /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt","timestamp":"2024-12-17T09:14:00.230Z"}
+{"level":"info","message":"Input list content:\nfile '/Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/static/images/image_1.png'\nduration 7.28\nfile '/Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/static/images/image_2.png'\nduration 7.28\nfile '/Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/static/images/image_3.png'\nduration 7.28\nfile '/Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/static/images/image_3.png'","timestamp":"2024-12-17T09:14:00.230Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T09:14:00.231Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734426835481.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental static/videos/output_1734426840170.mp4","timestamp":"2024-12-17T09:14:00.327Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":679,\"currentFps\":0,\"currentKbps\":2709.2,\"targetSize\":1792,\"timemark\":\"00:00:05.41\",\"percent\":6762.5}","timestamp":"2024-12-17T09:14:00.896Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":873,\"currentFps\":0,\"currentKbps\":1571.8,\"targetSize\":4190,\"timemark\":\"00:00:21.84\",\"percent\":27300}","timestamp":"2024-12-17T09:14:01.101Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T09:14:01.106Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T09:14:01.107Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T09:14:01.107Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 29.1s","timestamp":"2024-12-17T09:14:01.164Z"}
+{"level":"error","message":"Error in video generation: Video is too long (29.1s vs target 15s)","timestamp":"2024-12-17T09:14:01.164Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:15:10.468Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:15:30.076Z"}
+{"level":"info","message":"Script generated with 36 words for 15 seconds","timestamp":"2024-12-17T09:15:31.537Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:15:31.537Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> \"Bangla, also known as Bengali, is the official language of Bangladesh and the Indian state of West Bengal. <break time=\"0.3s\"/> With over 230 million speakers worldwide, it is one of the most <break time=\"0.2s\"/>","timestamp":"2024-12-17T09:15:31.538Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:15:47.864Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:16:10.195Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:16:33.204Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:16:33.205Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:16:44.568Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:16:44.569Z"}
+{"level":"info","message":"Generated audio duration: 18.00 seconds","timestamp":"2024-12-17T09:16:50.207Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:16:50.208Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:16:50.208Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T09:16:50.208Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T09:16:50.208Z"}
+{"level":"info","message":"Audio duration: 18 seconds","timestamp":"2024-12-17T09:16:50.276Z"}
+{"level":"info","message":"Duration per image: 5 seconds","timestamp":"2024-12-17T09:16:50.276Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T09:16:50.276Z"}
+{"level":"info","message":"Input list file created at: /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt","timestamp":"2024-12-17T09:16:50.278Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T09:16:50.278Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734427004569.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734427010208.mp4","timestamp":"2024-12-17T09:16:50.378Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":421,\"currentFps\":0,\"currentKbps\":1503.1,\"targetSize\":2560,\"timemark\":\"00:00:13.95\",\"percent\":17437.5}","timestamp":"2024-12-17T09:16:50.946Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":540,\"currentFps\":0,\"currentKbps\":1499.7,\"targetSize\":3295,\"timemark\":\"00:00:18.00\",\"percent\":22500}","timestamp":"2024-12-17T09:16:51.048Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T09:16:51.053Z"}
+{"level":"info","message":"Final video duration: 18s (target: 15s)","timestamp":"2024-12-17T09:16:51.111Z"}
+{"level":"error","message":"Error in createVideo: Video duration (18s) is outside acceptable range (13.5s - 16.5s)","timestamp":"2024-12-17T09:16:51.111Z"}
+{"level":"info","message":"Cleaned up input list file after error","timestamp":"2024-12-17T09:16:51.111Z"}
+{"level":"error","message":"Error in video generation: Video duration (18s) is outside acceptable range (13.5s - 16.5s)","timestamp":"2024-12-17T09:16:51.112Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:19:09.126Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:19:51.431Z"}
+{"level":"info","message":"Script generated with 19 words for 15 seconds","timestamp":"2024-12-17T09:19:52.767Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:19:52.767Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.1s\"/> Discover the beauty of Bangla. <break time=\"0.2s\"/> Explore rich culture. <break time=\"0.2s\"/> Embrace vibrant traditions. <break time=\"0.1s\"/>","timestamp":"2024-12-17T09:19:52.768Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:20:08.244Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:20:23.968Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:20:39.426Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:20:39.427Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:20:58.184Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:20:58.185Z"}
+{"level":"info","message":"Generated audio duration: 12.34 seconds","timestamp":"2024-12-17T09:21:01.861Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:21:01.862Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:21:01.862Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T09:21:01.862Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T09:21:01.862Z"}
+{"level":"info","message":"Audio duration: 12.336 seconds","timestamp":"2024-12-17T09:21:01.919Z"}
+{"level":"info","message":"Duration per image: 5 seconds","timestamp":"2024-12-17T09:21:01.919Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T09:21:01.919Z"}
+{"level":"info","message":"Input list file created at: /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt","timestamp":"2024-12-17T09:21:01.920Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T09:21:01.920Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734427258184.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734427261862.mp4","timestamp":"2024-12-17T09:21:02.019Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":370,\"currentFps\":0,\"currentKbps\":1898.3,\"targetSize\":2858,\"timemark\":\"00:00:12.33\",\"percent\":15412.5}","timestamp":"2024-12-17T09:21:02.480Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T09:21:02.495Z"}
+{"level":"info","message":"Final video duration: 12.336s (target: 15s)","timestamp":"2024-12-17T09:21:02.552Z"}
+{"level":"error","message":"Error in createVideo: Video duration (12.336s) is outside acceptable range (13.5s - 16.5s)","timestamp":"2024-12-17T09:21:02.552Z"}
+{"level":"info","message":"Cleaned up input list file after error","timestamp":"2024-12-17T09:21:02.552Z"}
+{"level":"error","message":"Error in video generation: Video duration (12.336s) is outside acceptable range (13.5s - 16.5s)","timestamp":"2024-12-17T09:21:02.553Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:21:52.931Z"}
+{"level":"info","message":"Starting video generation - Headline: bangla, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:40:15.313Z"}
+{"level":"info","message":"Script generated with 38 words for 15 seconds","timestamp":"2024-12-17T09:40:17.187Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:40:17.187Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Discover the beauty of Bangla, a rich language with deep historical roots. <break time=\"0.3s\"/> From poetry to music, Bangla is a vibrant part of South Asian culture. <break time=\"0.3s\"/> Immerse yourself in its lyrical <break time=\"0.2s\"/>","timestamp":"2024-12-17T09:40:17.188Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:40:36.039Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:40:52.354Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:41:14.622Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:41:14.624Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:41:55.027Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:41:55.029Z"}
+{"level":"info","message":"Generated audio duration: 15.00 seconds","timestamp":"2024-12-17T09:42:00.470Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:42:00.470Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:42:00.470Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T09:42:00.470Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T09:42:00.471Z"}
+{"level":"info","message":"Audio duration: 15 seconds","timestamp":"2024-12-17T09:42:00.527Z"}
+{"level":"info","message":"Duration per image: 5 seconds","timestamp":"2024-12-17T09:42:00.528Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T09:42:00.528Z"}
+{"level":"info","message":"Input list file created at: /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt","timestamp":"2024-12-17T09:42:00.529Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T09:42:00.529Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734428515028.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest -t 15 static/videos/output_1734428520470.mp4","timestamp":"2024-12-17T09:42:00.629Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":412,\"currentFps\":0,\"currentKbps\":1458.5,\"targetSize\":2560,\"timemark\":\"00:00:14.37\",\"percent\":17962.5}","timestamp":"2024-12-17T09:42:01.215Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":449,\"currentFps\":0,\"currentKbps\":1466.7,\"targetSize\":2674,\"timemark\":\"00:00:14.93\",\"percent\":18662.5}","timestamp":"2024-12-17T09:42:01.240Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T09:42:01.246Z"}
+{"level":"info","message":"Final video duration: 14.966667s (target: 15s)","timestamp":"2024-12-17T09:42:01.303Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T09:42:01.304Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T09:42:01.304Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 14.966667s","timestamp":"2024-12-17T09:42:01.358Z"}
+{"level":"info","message":"Video duration verification passed: 15.0 seconds","timestamp":"2024-12-17T09:42:01.358Z"}
+{"level":"info","message":"Uploading file static/videos/output_1734428520470.mp4 to S3 bucket argobot-bucket","timestamp":"2024-12-17T09:42:01.358Z"}
+{"level":"error","message":"Error uploading to S3: The bucket does not allow ACLs","timestamp":"2024-12-17T09:42:04.153Z"}
+{"level":"error","message":"Error in video generation: The bucket does not allow ACLs","timestamp":"2024-12-17T09:42:04.154Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T09:53:41.422Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T09:53:54.779Z"}
+{"level":"info","message":"Script generated with 34 words for 15 seconds","timestamp":"2024-12-17T09:53:56.701Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T09:53:56.701Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Discover the vibrant culture of Bangladesh! From the bustling streets of Dhaka to the serene beaches of Cox's Bazar, this country offers a rich tapestry of tradition and natural beauty. <break time=\"0.2s\"/>","timestamp":"2024-12-17T09:53:56.702Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T09:54:18.993Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T09:54:34.452Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T09:54:54.825Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T09:54:54.826Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T09:55:46.211Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T09:55:46.212Z"}
+{"level":"info","message":"Generated audio duration: 13.34 seconds","timestamp":"2024-12-17T09:55:52.156Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T09:55:52.156Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T09:55:52.156Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T09:55:52.156Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T09:55:52.157Z"}
+{"level":"info","message":"Audio duration: 13.344 seconds","timestamp":"2024-12-17T09:55:52.212Z"}
+{"level":"info","message":"Duration per image: 5 seconds","timestamp":"2024-12-17T09:55:52.213Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T09:55:52.213Z"}
+{"level":"info","message":"Input list file created at: /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt","timestamp":"2024-12-17T09:55:52.213Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T09:55:52.213Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734429346212.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest -t 15 static/videos/output_1734429352156.mp4","timestamp":"2024-12-17T09:55:52.313Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":400,\"currentFps\":0,\"currentKbps\":1856.8,\"targetSize\":3022,\"timemark\":\"00:00:13.33\",\"percent\":16662.5}","timestamp":"2024-12-17T09:55:52.822Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T09:55:52.827Z"}
+{"level":"info","message":"Final video duration: 13.344s (target: 15s)","timestamp":"2024-12-17T09:55:52.888Z"}
+{"level":"error","message":"Error in createVideo: Video duration (13.344s) is outside acceptable range (13.5s - 16.5s)","timestamp":"2024-12-17T09:55:52.888Z"}
+{"level":"info","message":"Cleaned up input list file after error","timestamp":"2024-12-17T09:55:52.888Z"}
+{"level":"error","message":"Error in video generation: Video duration (13.344s) is outside acceptable range (13.5s - 16.5s)","timestamp":"2024-12-17T09:55:52.888Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:00:04.276Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:03:43.171Z"}
+{"level":"info","message":"Script generated with 38 words for 15 seconds","timestamp":"2024-12-17T10:03:44.678Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:03:44.678Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Discover the vibrant culture of Bangladesh, with its colorful festivals and delicious cuisine. <break time=\"0.3s\"/> Explore the stunning landscapes, from lush greenery to bustling cities. <break time=\"0.3s\"/> Immerse yourself in the warm hospitality of <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:03:44.679Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:04:01.126Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:04:28.796Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:04:45.171Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:04:45.172Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:05:17.589Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:05:17.591Z"}
+{"level":"info","message":"Generated audio duration: 18.07 seconds","timestamp":"2024-12-17T10:05:24.673Z"}
+{"level":"error","message":"Error generating audio: Audio duration too long","timestamp":"2024-12-17T10:05:24.674Z"}
+{"level":"error","message":"Error in video generation: Audio duration too long","timestamp":"2024-12-17T10:05:24.674Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:09:03.984Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:10:51.025Z"}
+{"level":"info","message":"Script generated with 36 words for 15 seconds","timestamp":"2024-12-17T10:10:52.705Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:10:52.705Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Discover the vibrant culture of Bangladesh, where bustling markets showcase colourful textiles and delicious street food. <break time=\"0.3s\"/> The stunning landscapes range from bustling cities to serene rivers, offering a diverse experience. <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:10:52.706Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:11:13.011Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:11:30.071Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:11:47.078Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:11:47.079Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:12:36.110Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:12:36.112Z"}
+{"level":"info","message":"Initial audio duration: 17.33 seconds","timestamp":"2024-12-17T10:12:41.357Z"}
+{"level":"info","message":"Adjusting audio speed by factor 1.16","timestamp":"2024-12-17T10:12:41.357Z"}
+{"level":"info","message":"Final audio duration after speed adjustment: 15.00 seconds","timestamp":"2024-12-17T10:12:41.585Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:12:41.585Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:12:41.585Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:12:41.585Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:12:41.586Z"}
+{"level":"info","message":"Audio duration for video creation: 15 seconds","timestamp":"2024-12-17T10:12:41.631Z"}
+{"level":"info","message":"Duration per image: 5 seconds","timestamp":"2024-12-17T10:12:41.631Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:12:41.631Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:12:41.632Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734430356111.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734430361585.mp4","timestamp":"2024-12-17T10:12:41.633Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":448,\"currentFps\":0,\"currentKbps\":1868.5,\"targetSize\":3406,\"timemark\":\"00:00:14.93\",\"percent\":18662.5}","timestamp":"2024-12-17T10:12:42.136Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:12:42.142Z"}
+{"level":"info","message":"Final video duration: 14.94s (target: 15s)","timestamp":"2024-12-17T10:12:42.198Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:12:42.199Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:12:42.199Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 14.94s","timestamp":"2024-12-17T10:12:42.250Z"}
+{"level":"info","message":"Video duration verification passed: 14.9 seconds","timestamp":"2024-12-17T10:12:42.250Z"}
+{"level":"info","message":"Uploading static/videos/output_1734430361585.mp4 to S3 with key videos/output-1734430362251.mp4","timestamp":"2024-12-17T10:12:42.251Z"}
+{"level":"error","message":"Error uploading to S3: fs.createReadStream is not a function","timestamp":"2024-12-17T10:12:42.251Z"}
+{"level":"error","message":"Error in video generation: fs.createReadStream is not a function","timestamp":"2024-12-17T10:12:42.251Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:23:27.217Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:23:37.562Z"}
+{"level":"info","message":"Script generated with 36 words for 15 seconds","timestamp":"2024-12-17T10:23:39.123Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:23:39.124Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Explore the vibrant culture of Bangladesh, known for its delicious cuisine and colorful festivals. <break time=\"0.3s\"/> Experience the beauty of the countryside and bustling city life, all against the backdrop of stunning <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:23:39.124Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:23:58.911Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:24:15.369Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:24:31.784Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:24:31.785Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:25:20.962Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:25:20.964Z"}
+{"level":"info","message":"Initial audio duration: 14.93 seconds","timestamp":"2024-12-17T10:25:28.400Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:25:28.401Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:25:28.401Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:25:28.401Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:25:28.401Z"}
+{"level":"info","message":"Audio duration for video creation: 14.928 seconds","timestamp":"2024-12-17T10:25:28.467Z"}
+{"level":"info","message":"Duration per image: 4.98 seconds","timestamp":"2024-12-17T10:25:28.467Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:25:28.467Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:25:28.468Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734431120963.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734431128401.mp4","timestamp":"2024-12-17T10:25:28.579Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":409,\"currentFps\":0,\"currentKbps\":1700.3,\"targetSize\":2816,\"timemark\":\"00:00:13.56\",\"percent\":16950}","timestamp":"2024-12-17T10:25:29.144Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":447,\"currentFps\":0,\"currentKbps\":1645.9,\"targetSize\":2994,\"timemark\":\"00:00:14.90\",\"percent\":18625}","timestamp":"2024-12-17T10:25:29.170Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:25:29.176Z"}
+{"level":"info","message":"Final video duration: 14.928s (target: 15s)","timestamp":"2024-12-17T10:25:29.237Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:25:29.238Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:25:29.238Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 14.928s","timestamp":"2024-12-17T10:25:29.295Z"}
+{"level":"info","message":"Video duration verification passed: 14.9 seconds","timestamp":"2024-12-17T10:25:29.295Z"}
+{"level":"info","message":"Uploading static/videos/output_1734431128401.mp4 to S3 with key videos/output-1734431129295.mp4","timestamp":"2024-12-17T10:25:29.295Z"}
+{"level":"error","message":"Error uploading to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:26:39.534Z"}
+{"level":"error","message":"Error in video generation: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:26:39.534Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:28:59.985Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:29:10.817Z"}
+{"level":"info","message":"Script generated with 38 words for 15 seconds","timestamp":"2024-12-17T10:29:12.368Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:29:12.368Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Bustling markets, vibrant textiles, and ancient architecture make Bangladesh a feast for the senses. <break time=\"0.3s\"/> Explore rich culture and stunning landscapes in this enchanting South Asian gem. <break time=\"0.3s\"/> Discover a world of <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:29:12.369Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:29:26.705Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:29:45.522Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:30:03.869Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:30:03.870Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:30:16.150Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:30:16.151Z"}
+{"level":"info","message":"Initial audio duration: 18.77 seconds","timestamp":"2024-12-17T10:30:21.060Z"}
+{"level":"info","message":"Adjusting audio speed by factor 1.25","timestamp":"2024-12-17T10:30:21.061Z"}
+{"level":"info","message":"Final audio duration after speed adjustment: 15.07 seconds","timestamp":"2024-12-17T10:30:21.292Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:30:21.293Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:30:21.293Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:30:21.293Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:30:21.293Z"}
+{"level":"info","message":"Audio duration for video creation: 15.072 seconds","timestamp":"2024-12-17T10:30:21.342Z"}
+{"level":"info","message":"Duration per image: 5.03 seconds","timestamp":"2024-12-17T10:30:21.342Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:30:21.342Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:30:21.343Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734431416151.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734431421293.mp4","timestamp":"2024-12-17T10:30:21.344Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":450,\"currentFps\":0,\"currentKbps\":1727.9,\"targetSize\":3164,\"timemark\":\"00:00:15.00\",\"percent\":18750}","timestamp":"2024-12-17T10:30:21.839Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:30:21.845Z"}
+{"level":"info","message":"Final video duration: 15.011s (target: 15s)","timestamp":"2024-12-17T10:30:21.906Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:30:21.906Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:30:21.906Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 15.011s","timestamp":"2024-12-17T10:30:21.962Z"}
+{"level":"info","message":"Video duration verification passed: 15.0 seconds","timestamp":"2024-12-17T10:30:21.962Z"}
+{"level":"info","message":"Uploading static/videos/output_1734431421293.mp4 to S3 with key videos/output-1734431421962.mp4","timestamp":"2024-12-17T10:30:21.962Z"}
+{"level":"info","message":"Upload progress: 2.02%","timestamp":"2024-12-17T10:30:21.975Z"}
+{"level":"info","message":"Upload progress: 4.05%","timestamp":"2024-12-17T10:30:21.975Z"}
+{"level":"info","message":"Upload progress: 6.07%","timestamp":"2024-12-17T10:30:21.975Z"}
+{"level":"info","message":"Upload progress: 8.09%","timestamp":"2024-12-17T10:30:21.975Z"}
+{"level":"info","message":"Upload progress: 10.11%","timestamp":"2024-12-17T10:30:21.975Z"}
+{"level":"info","message":"Upload progress: 12.14%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 14.16%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 16.18%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 18.21%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 20.23%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 22.25%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 24.27%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 26.30%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 28.32%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 30.34%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 32.37%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 34.39%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 36.41%","timestamp":"2024-12-17T10:30:21.976Z"}
+{"level":"info","message":"Upload progress: 38.43%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 40.46%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 42.48%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 44.50%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 46.53%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 48.55%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 50.57%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 52.59%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 54.62%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 56.64%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 58.66%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 60.69%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 62.71%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 64.73%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 66.75%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 68.78%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 70.80%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 72.82%","timestamp":"2024-12-17T10:30:21.977Z"}
+{"level":"info","message":"Upload progress: 74.85%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 76.87%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 78.89%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 80.91%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 82.94%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 84.96%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 86.98%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 89.01%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 91.03%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 93.05%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 95.07%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 97.10%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 99.12%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload progress: 100.00%","timestamp":"2024-12-17T10:30:21.978Z"}
+{"level":"info","message":"Upload failed, retrying in 2 seconds... (Attempt 2/3)","timestamp":"2024-12-17T10:30:44.733Z"}
+{"level":"info","message":"Upload failed, retrying in 4 seconds... (Attempt 3/3)","timestamp":"2024-12-17T10:31:09.569Z"}
+{"level":"error","message":"Error uploading to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:31:36.647Z"}
+{"level":"error","message":"Error in video generation: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:31:36.647Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:32:46.451Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:33:17.156Z"}
+{"level":"info","message":"Script generated with 38 words for 15 seconds","timestamp":"2024-12-17T10:33:18.959Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:33:18.959Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Discover the vibrant culture and picturesque landscapes of Bangladesh. <break time=\"0.3s\"/> From colorful rickshaws to stunning sunsets over lush tea gardens, this country offers a unique and unforgettable experience. <break time=\"0.3s\"/> Immerse yourself in <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:33:18.960Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:33:42.565Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:34:04.110Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:34:21.264Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:34:21.265Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:34:38.654Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:34:38.656Z"}
+{"level":"info","message":"Initial audio duration: 19.39 seconds","timestamp":"2024-12-17T10:34:44.434Z"}
+{"level":"info","message":"Adjusting audio speed by factor 1.29","timestamp":"2024-12-17T10:34:44.434Z"}
+{"level":"info","message":"Final audio duration after speed adjustment: 15.10 seconds","timestamp":"2024-12-17T10:34:44.662Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:34:44.662Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:34:44.662Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:34:44.662Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:34:44.663Z"}
+{"level":"info","message":"Audio duration for video creation: 15.096 seconds","timestamp":"2024-12-17T10:34:44.706Z"}
+{"level":"info","message":"Duration per image: 5.04 seconds","timestamp":"2024-12-17T10:34:44.706Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:34:44.706Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:34:44.707Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734431678655.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734431684662.mp4","timestamp":"2024-12-17T10:34:44.708Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":451,\"currentFps\":0,\"currentKbps\":1519.4,\"targetSize\":2788,\"timemark\":\"00:00:15.03\",\"percent\":18787.5}","timestamp":"2024-12-17T10:34:45.167Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:34:45.172Z"}
+{"level":"info","message":"Final video duration: 15.039s (target: 15s)","timestamp":"2024-12-17T10:34:45.229Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:34:45.230Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:34:45.230Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 15.039s","timestamp":"2024-12-17T10:34:45.281Z"}
+{"level":"info","message":"Video duration verification passed: 15.0 seconds","timestamp":"2024-12-17T10:34:45.281Z"}
+{"level":"info","message":"Uploading static/videos/output_1734431684662.mp4 to S3 with key videos/output-1734431685281.mp4","timestamp":"2024-12-17T10:34:45.282Z"}
+{"level":"info","message":"Using buffer upload for small file","timestamp":"2024-12-17T10:34:45.282Z"}
+{"level":"info","message":"Upload failed, retrying in 2 seconds... (Attempt 2/3)","timestamp":"2024-12-17T10:35:53.846Z"}
+{"level":"info","message":"Upload failed, retrying in 4 seconds... (Attempt 3/3)","timestamp":"2024-12-17T10:37:04.335Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:37:57.137Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:37:58.552Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:38:02.334Z"}
+{"level":"info","message":"Script generated with 36 words for 15 seconds","timestamp":"2024-12-17T10:38:03.513Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:38:03.513Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Explore the vibrant culture of Bangladesh, known for its colorful festivals and delicious cuisine. <break time=\"0.3s\"/> From the bustling markets of Dhaka to the serene beaches of Cox's Bazar, this country offers <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:38:03.514Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:38:22.872Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:38:39.774Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:39:01.156Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:39:01.157Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:39:33.056Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:39:33.057Z"}
+{"level":"info","message":"Initial audio duration: 14.93 seconds","timestamp":"2024-12-17T10:39:36.588Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:39:36.588Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:39:36.588Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:39:36.588Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:39:36.589Z"}
+{"level":"info","message":"Audio duration for video creation: 14.928 seconds","timestamp":"2024-12-17T10:39:36.636Z"}
+{"level":"info","message":"Duration per image: 4.98 seconds","timestamp":"2024-12-17T10:39:36.636Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:39:36.637Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:39:36.637Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734431973057.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734431976588.mp4","timestamp":"2024-12-17T10:39:36.827Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":447,\"currentFps\":0,\"currentKbps\":1846,\"targetSize\":3358,\"timemark\":\"00:00:14.90\",\"percent\":18625}","timestamp":"2024-12-17T10:39:37.336Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:39:37.342Z"}
+{"level":"info","message":"Final video duration: 14.928s (target: 15s)","timestamp":"2024-12-17T10:39:37.400Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:39:37.400Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:39:37.400Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 14.928s","timestamp":"2024-12-17T10:39:37.454Z"}
+{"level":"info","message":"Video duration verification passed: 14.9 seconds","timestamp":"2024-12-17T10:39:37.455Z"}
+{"level":"info","message":"Uploading static/videos/output_1734431976588.mp4 to S3 with key videos/output-1734431977455.mp4","timestamp":"2024-12-17T10:39:37.455Z"}
+{"level":"error","message":"Error uploading to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:40:00.265Z"}
+{"level":"error","message":"Error in video generation: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:40:00.266Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:42:07.238Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:42:18.097Z"}
+{"level":"info","message":"Script generated with 36 words for 15 seconds","timestamp":"2024-12-17T10:42:19.725Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:42:19.725Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Explore the vibrant colors of Bangladesh. <break time=\"0.3s\"/> From bustling markets to stunning landscapes, this country offers a rich cultural experience. <break time=\"0.3s\"/> Discover the warmth and hospitality of the people here. <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:42:19.726Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:42:36.926Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:42:54.639Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:43:14.855Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:43:14.856Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:43:50.916Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:43:50.918Z"}
+{"level":"info","message":"Initial audio duration: 17.76 seconds","timestamp":"2024-12-17T10:43:55.827Z"}
+{"level":"info","message":"Adjusting audio speed by factor 1.18","timestamp":"2024-12-17T10:43:55.827Z"}
+{"level":"info","message":"Final audio duration after speed adjustment: 15.12 seconds","timestamp":"2024-12-17T10:43:56.081Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:43:56.082Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:43:56.082Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:43:56.082Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:43:56.082Z"}
+{"level":"info","message":"Audio duration for video creation: 15.12 seconds","timestamp":"2024-12-17T10:43:56.127Z"}
+{"level":"info","message":"Duration per image: 5.04 seconds","timestamp":"2024-12-17T10:43:56.127Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:43:56.127Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:43:56.128Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734432230917.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734432236082.mp4","timestamp":"2024-12-17T10:43:56.129Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":451,\"currentFps\":0,\"currentKbps\":1637.6,\"targetSize\":3005,\"timemark\":\"00:00:15.03\",\"percent\":18787.5}","timestamp":"2024-12-17T10:43:56.641Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:43:56.650Z"}
+{"level":"info","message":"Final video duration: 15.057s (target: 15s)","timestamp":"2024-12-17T10:43:56.710Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:43:56.710Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:43:56.710Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 15.057s","timestamp":"2024-12-17T10:43:56.762Z"}
+{"level":"info","message":"Video duration verification passed: 15.1 seconds","timestamp":"2024-12-17T10:43:56.763Z"}
+{"level":"info","message":"Uploading static/videos/output_1734432236082.mp4 to S3 with key videos/output-1734432236763.mp4","timestamp":"2024-12-17T10:43:56.763Z"}
+{"level":"info","message":"File size: 2.93 MB","timestamp":"2024-12-17T10:43:56.765Z"}
+{"level":"error","message":"Error uploading to S3: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:45:05.474Z"}
+{"level":"error","message":"Error in video generation: Your socket connection to the server was not read from or written to within the timeout period. Idle connections will be closed.","timestamp":"2024-12-17T10:45:05.476Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T10:47:33.704Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T10:50:26.393Z"}
+{"level":"info","message":"Script generated with 38 words for 15 seconds","timestamp":"2024-12-17T10:50:28.551Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T10:50:28.551Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Discover the vibrant culture of Bangladesh through colorful rickshaws, ancient temples, and bustling markets. <break time=\"0.3s\"/> Dive into delicious cuisine, vibrant festivals, and warm hospitality in this beautiful South Asian country. <break time=\"0.3s\"/> Explore <break time=\"0.2s\"/>","timestamp":"2024-12-17T10:50:28.552Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T10:50:49.236Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T10:51:08.589Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T10:51:26.022Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T10:51:26.023Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T10:51:52.009Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T10:51:52.011Z"}
+{"level":"info","message":"Initial audio duration: 18.86 seconds","timestamp":"2024-12-17T10:51:58.155Z"}
+{"level":"info","message":"Adjusting audio speed by factor 1.26","timestamp":"2024-12-17T10:51:58.155Z"}
+{"level":"info","message":"Final audio duration after speed adjustment: 15.05 seconds","timestamp":"2024-12-17T10:51:58.424Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T10:51:58.424Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T10:51:58.424Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T10:51:58.424Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T10:51:58.425Z"}
+{"level":"info","message":"Audio duration for video creation: 15.048 seconds","timestamp":"2024-12-17T10:51:58.478Z"}
+{"level":"info","message":"Duration per image: 5.02 seconds","timestamp":"2024-12-17T10:51:58.478Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T10:51:58.478Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T10:51:58.479Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734432712010.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734432718424.mp4","timestamp":"2024-12-17T10:51:58.481Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":449,\"currentFps\":0,\"currentKbps\":1610,\"targetSize\":2941,\"timemark\":\"00:00:14.96\",\"percent\":18700}","timestamp":"2024-12-17T10:51:58.961Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T10:51:58.967Z"}
+{"level":"info","message":"Final video duration: 14.982s (target: 15s)","timestamp":"2024-12-17T10:51:59.072Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T10:51:59.073Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T10:51:59.073Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 14.982s","timestamp":"2024-12-17T10:51:59.154Z"}
+{"level":"info","message":"Video duration verification passed: 15.0 seconds","timestamp":"2024-12-17T10:51:59.154Z"}
+{"level":"info","message":"Uploading static/videos/output_1734432718424.mp4 to S3 with key videos/output-1734432719154.mp4","timestamp":"2024-12-17T10:51:59.155Z"}
+{"level":"info","message":"File size: 2.87 MB","timestamp":"2024-12-17T10:51:59.156Z"}
+{"level":"info","message":"Uploading part 1/1","timestamp":"2024-12-17T10:52:01.949Z"}
+{"level":"info","message":"File uploaded successfully to https://argobot-bucket.s3.us-east-2.amazonaws.com/videos/output-1734432719154.mp4","timestamp":"2024-12-17T10:52:18.829Z"}
+{"level":"info","message":"Video uploaded to S3 successfully","timestamp":"2024-12-17T10:52:18.830Z"}
+{"level":"info","message":"Cleanup completed successfully","timestamp":"2024-12-17T10:52:18.835Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-12-17T11:00:38.644Z"}
+{"level":"info","message":"Starting video generation - Headline: bangladesh, Duration: 15s, Voice: alloy","timestamp":"2024-12-17T11:02:12.232Z"}
+{"level":"info","message":"Script generated with 38 words for 15 seconds","timestamp":"2024-12-17T11:02:17.279Z"}
+{"level":"info","message":"Script generated successfully","timestamp":"2024-12-17T11:02:17.280Z"}
+{"level":"info","message":"Generating images for prompt: <break time=\"0.2s\"/> Experience the vibrant culture of Bangladesh through its colorful festivals and mouthwatering cuisine. <break time=\"0.3s\"/> Discover stunning landscapes, from lush greenery to bustling cities. <break time=\"0.3s\"/> Dive into a rich history that dates back <break time=\"0.2s\"/>","timestamp":"2024-12-17T11:02:17.280Z"}
+{"level":"info","message":"Image 1 generated successfully","timestamp":"2024-12-17T11:02:39.338Z"}
+{"level":"info","message":"Image 2 generated successfully","timestamp":"2024-12-17T11:02:56.541Z"}
+{"level":"info","message":"Image 3 generated successfully","timestamp":"2024-12-17T11:03:10.226Z"}
+{"level":"info","message":"Generated 3 images","timestamp":"2024-12-17T11:03:10.227Z"}
+{"level":"info","message":"All images downloaded successfully","timestamp":"2024-12-17T11:03:37.981Z"}
+{"level":"info","message":"Starting audio generation","timestamp":"2024-12-17T11:03:37.984Z"}
+{"level":"info","message":"Initial audio duration: 18.74 seconds","timestamp":"2024-12-17T11:03:42.674Z"}
+{"level":"info","message":"Adjusting audio speed by factor 1.25","timestamp":"2024-12-17T11:03:42.675Z"}
+{"level":"info","message":"Final audio duration after speed adjustment: 15.07 seconds","timestamp":"2024-12-17T11:03:42.931Z"}
+{"level":"info","message":"Audio generation completed successfully","timestamp":"2024-12-17T11:03:42.931Z"}
+{"level":"info","message":"Audio generated successfully","timestamp":"2024-12-17T11:03:42.931Z"}
+{"level":"info","message":"Starting video creation process","timestamp":"2024-12-17T11:03:42.931Z"}
+{"level":"info","message":"Created temp directory","timestamp":"2024-12-17T11:03:42.931Z"}
+{"level":"info","message":"Audio duration for video creation: 15.072 seconds","timestamp":"2024-12-17T11:03:42.979Z"}
+{"level":"info","message":"Duration per image: 5.03 seconds","timestamp":"2024-12-17T11:03:42.979Z"}
+{"level":"info","message":"Writing input list file","timestamp":"2024-12-17T11:03:42.979Z"}
+{"level":"info","message":"Starting FFmpeg process","timestamp":"2024-12-17T11:03:42.981Z"}
+{"level":"info","message":"FFmpeg command: ffmpeg -f concat -safe 0 -i /Users/s.m.ahadalichowdhury/Downloads/project/short-project/backend/temp/input.txt -i static/audio/audio_1734433417983.mp3 -y -c:v libx264 -pix_fmt yuv420p -preset ultrafast -r 30 -c:a aac -strict experimental -shortest static/videos/output_1734433422931.mp4","timestamp":"2024-12-17T11:03:42.982Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":344,\"currentFps\":0,\"currentKbps\":2265.9,\"targetSize\":3328,\"timemark\":\"00:00:12.03\",\"percent\":15037.5}","timestamp":"2024-12-17T11:03:43.553Z"}
+{"level":"info","message":"FFmpeg progress: {\"frames\":450,\"currentFps\":0,\"currentKbps\":1885.7,\"targetSize\":3453,\"timemark\":\"00:00:15.00\",\"percent\":18750}","timestamp":"2024-12-17T11:03:43.651Z"}
+{"level":"info","message":"FFmpeg process completed","timestamp":"2024-12-17T11:03:43.661Z"}
+{"level":"info","message":"Final video duration: 15.004s (target: 15s)","timestamp":"2024-12-17T11:03:43.729Z"}
+{"level":"info","message":"Cleaned up input list file","timestamp":"2024-12-17T11:03:43.729Z"}
+{"level":"info","message":"Video created successfully","timestamp":"2024-12-17T11:03:43.729Z"}
+{"level":"info","message":"Video verification - Target: 15s, Actual: 15.004s","timestamp":"2024-12-17T11:03:43.784Z"}
+{"level":"info","message":"Video duration verification passed: 15.0 seconds","timestamp":"2024-12-17T11:03:43.784Z"}
+{"level":"info","message":"Uploading static/videos/output_1734433422931.mp4 to S3 with key videos/output-1734433423784.mp4","timestamp":"2024-12-17T11:03:43.784Z"}
+{"level":"info","message":"File size: 3.37 MB","timestamp":"2024-12-17T11:03:43.786Z"}
+{"level":"info","message":"Uploading part 1/1","timestamp":"2024-12-17T11:03:46.545Z"}
+{"level":"info","message":"File uploaded successfully to https://argobot-bucket.s3.us-east-2.amazonaws.com/videos/output-1734433423784.mp4","timestamp":"2024-12-17T11:03:58.825Z"}
+{"level":"info","message":"Local file deleted: static/videos/output_1734433422931.mp4","timestamp":"2024-12-17T11:03:58.828Z"}
+{"level":"info","message":"Video uploaded to S3 successfully","timestamp":"2024-12-17T11:03:58.828Z"}
+{"level":"error","message":"Error deleting video: Error: ENOENT: no such file or directory, unlink 'static/videos/output_1734433422931.mp4'","timestamp":"2024-12-17T11:03:58.835Z"}
+{"level":"info","message":"Cleanup completed successfully","timestamp":"2024-12-17T11:03:58.835Z"}

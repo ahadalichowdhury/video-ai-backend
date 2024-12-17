@@ -1,0 +1,6 @@
+file 'static/images/image_1.png_processed.png'
+duration 4.848
+file 'static/images/image_2.png_processed.png'
+duration 4.848
+file 'static/images/image_3.png_processed.png'
+duration 4.848
